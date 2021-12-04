@@ -1,5 +1,12 @@
-<!-- Space: BASE-TEMPLATE -->
+<!-- Space: BaseLearnTemplate -->
+<!-- Parent: Project -->
 <!-- Title: Troubleshooting -->
+
+<!-- Label: BaseLearnTemplate -->
+<!-- Label: Project -->
+<!-- Label: Troubleshooting -->
+<!-- Include: docs/disclaimer.md -->
+<!-- Include: ac:toc -->
 
 # Troubleshooting
 
