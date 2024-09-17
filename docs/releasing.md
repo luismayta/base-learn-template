@@ -1,11 +1,10 @@
 <!-- Space: BaseLearnTemplate -->
 <!-- Parent: Project -->
 <!-- Title: Releasing -->
-
 <!-- Label: BaseLearnTemplate -->
 <!-- Label: Project -->
 <!-- Label: Releasing -->
-<!-- Include: docs/disclaimer.md -->
+<!-- Include: disclaimer.md -->
 <!-- Include: ac:toc -->
 
 # Releasing

@@ -3,15 +3,16 @@
   "ignorePatterns": [
     {
       "pattern": "^https://hadenlabs.com"
-    },
-    {
-      "pattern": "^https://github.com/luismayta/base-learn-template/compare"
     }
   ],
   "replacementPatterns": [
     {
       "pattern": "^/docs",
       "replacement": "{{BASEURL}}/docs"
+    },
+    {
+      "pattern": "^/",
+      "replacement": "{{BASEURL}}/"
     }
   ],
   "timeout": "20s",
